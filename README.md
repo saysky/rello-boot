@@ -1,3 +1,7 @@
+## 博主开发的其他租房或房屋交易项目全部在这里
+**[https://liuyanzhao.com/shop.html?k=房屋](https://liuyanzhao.com/shop.html?k=房屋)**  
+- -------------------------------------------------------------------------------
+感谢支持正版项目的朋友
 - 2022 最新基于SpringBoot/SSM的房屋租赁系统 Rello
 - 预览地址：[http://rello.liuyanzhao.com](http://rello.liuyanzhao.com)
 - 详细介绍地址：[https://liuyanzhao.com/shop/rello.html](https://liuyanzhao.com/shop/rello.html)
